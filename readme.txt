@@ -1,0 +1,2 @@
+1. You need to install the python libraries requests, pandas & openpyxl for running the apitask.py file
+2. You need to modify the local path in the code for extracting the excel with the data. Right now, my own device's local path is mentioned.
